@@ -12,6 +12,7 @@ Clone the repository
 Create a terraform.tfvars file in the root of the repository and set the values of the variables as appropriate.
 Run
 ```bash
+Run
   terraform init
   terraform plan
   terraform apply

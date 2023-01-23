@@ -10,7 +10,6 @@ AWS account and credentials with appropriate permissions
 ## Usage
 Clone the repository
 Create a terraform.tfvars file in the root of the repository and set the values of the variables as appropriate.
-Run
 ```bash
 Run
   terraform init
